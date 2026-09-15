@@ -1,0 +1,6 @@
+{
+  "name": "Project IGI Voiceover Studio",
+  "description": "Professional Sinhala & English AI Voiceover Studio with file upload, multi-voice Gemini 3.1 Flash TTS, scene management, and Vercel deployment readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
